@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProfileSearch</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Ingin Mencari Siapa?</string>
+    <string name="_0_followers">%1$d Followers</string>
+    <string name="_0_following">%1$d Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_user">Nama User</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fav">Fav</string>
+    <string name="user_nothing">Tidak Ada User Yang Kamu Sukai</string>
+    <string name="app_icon">GitHub Profile Search</string>
+    <string name="github_profile_search">GitHub Profile Search</string>
+</resources>
