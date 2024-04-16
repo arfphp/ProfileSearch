@@ -20,6 +20,8 @@ android {
 
 	buildConfigField("String", "BASE_URL", "base_url_api")
 	buildConfigField("String", "API_KEY", "github_token")
+	// buildConfigField("String", "BASE_URL", "\"https://api.github.com/\"")
+        // buildConfigField("String", "API_KEY", "\"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\"")
        
     }
 
